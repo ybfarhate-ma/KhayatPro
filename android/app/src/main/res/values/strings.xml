@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KhayatPro</string>
+    <string name="title_activity_main">KhayatPro</string>
+    <string name="package_name">com.khayatpro.maroc.app</string>
+    <string name="custom_url_scheme">com.khayatpro.maroc.app</string>
+    <string name="server_client_id">588657095755-v3aah0ci4kh311rmc0r91mmleo0j1j4m.apps.googleusercontent.com</string>
+</resources>

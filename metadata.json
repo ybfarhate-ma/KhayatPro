@@ -1,0 +1,6 @@
+{
+  "name": "KhayatPro Maroc",
+  "description": "نظام إدارة متكامل للخياطين في المغرب، مزود بنظام CloudSense للمزامنة السحابية الآمنة عبر Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
